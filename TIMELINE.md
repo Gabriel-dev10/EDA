@@ -1,3 +1,1 @@
-Timeline de Commits - Exercício_02
-
-Estrutura base do exercício_02
+Resultado final do exercicio_02
