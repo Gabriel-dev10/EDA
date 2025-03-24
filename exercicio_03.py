@@ -12,6 +12,12 @@ def bissecao (a, b):
             a = PontoMedio
 
 a = float(input("Insira o maior valor do intervalo:"))
-
+print()
 b = float(input("Insira o menor valor do intervalo:"))
+print()
 
+if Funcao(a) * Funcao(b) > 0:
+    print("Não há raízes neste intervalo.")
+else:
+    raiz = bissecao(a, b)
+    print(f"A raiz aproximada é: {raiz}")

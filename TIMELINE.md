@@ -1,1 +1,1 @@
-Area de inserir os valores de intervalo (maior e menor)
+Verificando o intervalo dado pelo usuario e exercicio completo.
