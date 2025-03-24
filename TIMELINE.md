@@ -1,3 +1,1 @@
-Iniciando a estrutura do codigo.
-
-Criação do laço de repetiçao e logica da conta
+Area de inserir os valores de intervalo (maior e menor)

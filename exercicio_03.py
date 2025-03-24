@@ -10,3 +10,8 @@ def bissecao (a, b):
             b = PontoMedio 
         else:
             a = PontoMedio
+
+a = float(input("Insira o maior valor do intervalo:"))
+
+b = float(input("Insira o menor valor do intervalo:"))
+
